@@ -1,0 +1,7 @@
+﻿  ChM.2.cpp
+C:\Users\Honor\source\repos\ChM.2\ChM.2\ChM.2.cpp(136,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Honor\source\repos\ChM.2\ChM.2\ChM.2.cpp(156,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Honor\source\repos\ChM.2\ChM.2\ChM.2.cpp(173,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Honor\source\repos\ChM.2\ChM.2\ChM.2.cpp(193,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Honor\source\repos\ChM.2\ChM.2\ChM.2.cpp(214,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ChM.2.vcxproj -> C:\Users\Honor\source\repos\ChM.2\Debug\ChM.2.exe
